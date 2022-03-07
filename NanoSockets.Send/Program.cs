@@ -7,7 +7,7 @@ namespace NanoSockets.Send
     class Program
     {
         //private const int PacketSize = 1380;
-        private const int PacketSize = 60000;
+        private const int PacketSize = 1380;
 
         static void Main(string[] args)
         {
